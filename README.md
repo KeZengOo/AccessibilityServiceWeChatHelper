@@ -1,0 +1,2 @@
+# AccessibilityServiceWeChatHelper
+通过AccessibilityService实现微信聊天记录导出
