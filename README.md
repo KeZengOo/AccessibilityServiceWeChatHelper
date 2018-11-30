@@ -1,2 +1,14 @@
-# AccessibilityServiceWeChatHelper
-通过AccessibilityService实现微信聊天记录导出
+# WeChatLog
+监听服务Demo（Demo基于目前微信最新版本6.5.4）
+
+*监听正常的微信文字聊天
+
+*现在可以知道对方发的小视频秒数
+
+*现在可以知道对方发的语音秒数
+
+*可以知道对方发的是图片还是表情
+
+*适配微信更加方便，只需要修改一个ID
+
+更多信息参考我的博客: http://www.cnblogs.com/cxk1995/p/6366273.html
