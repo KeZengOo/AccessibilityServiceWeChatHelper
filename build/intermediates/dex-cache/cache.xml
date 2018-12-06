@@ -3,57 +3,57 @@
 
     <item
         is-multidex="false"
-        jar="/Users/dujingxiu/Desktop/WeChatLog-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.1"
-        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
-        <dex dex="/Users/dujingxiu/Desktop/WeChatLog-master/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_6e7af2d45fede416cc6d706e09f35805e77ee3e9.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/dujingxiu/Desktop/WeChatLog-master/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.1"
-        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
-        <dex dex="/Users/dujingxiu/Desktop/WeChatLog-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.4.0_7c38118397396bb5c8da5545df183fb5a1b609ea.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/dujingxiu/Desktop/WeChatLog-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.1"
-        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
-        <dex dex="/Users/dujingxiu/Desktop/WeChatLog-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.4.0_249055fc190bbabe74bcbd1abe17bca5b6d3a8f5.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/dujingxiu/Desktop/WeChatLog-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.1"
-        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
-        <dex dex="/Users/dujingxiu/Desktop/WeChatLog-master/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.4.0_bbc0a76a4dc2d696e0c1a4eacf34f7af91aacb8f.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/dujingxiu/Desktop/WeChatLog-master/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.1"
-        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
-        <dex dex="/Users/dujingxiu/Desktop/WeChatLog-master/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.4.0_391a4741ec90eab0ec559811b2b62c45cd53e013.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="/Users/dujingxiu/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
         jumboMode="false"
         optimize="true"
         revision="24.0.1"
         sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
-        <dex dex="/Users/dujingxiu/Desktop/WeChatLog-master/app/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_64193d961bb45926813ae181d804188552dd50da.jar" />
+        <dex dex="/Users/dujingxiu/Project/Naxions/Android/AccessibilityServiceWeChatHelper/app/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_64193d961bb45926813ae181d804188552dd50da.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dujingxiu/Project/Naxions/Android/AccessibilityServiceWeChatHelper/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/dujingxiu/Project/Naxions/Android/AccessibilityServiceWeChatHelper/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.4.0_a32bd1cbd5f9a150570fa17b384dcd73ee98f392.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dujingxiu/Project/Naxions/Android/AccessibilityServiceWeChatHelper/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/dujingxiu/Project/Naxions/Android/AccessibilityServiceWeChatHelper/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.4.0_bb5321787ed0eac8dbe1eedd1f91a87724f8579a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dujingxiu/Project/Naxions/Android/AccessibilityServiceWeChatHelper/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/dujingxiu/Project/Naxions/Android/AccessibilityServiceWeChatHelper/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_7c2235ac9462fc3a4ff51376258b6c063a5928cb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dujingxiu/Project/Naxions/Android/AccessibilityServiceWeChatHelper/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/dujingxiu/Project/Naxions/Android/AccessibilityServiceWeChatHelper/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.4.0_ce260e311acf10a8e735f4632b4a0db5289bc87a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dujingxiu/Project/Naxions/Android/AccessibilityServiceWeChatHelper/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/dujingxiu/Project/Naxions/Android/AccessibilityServiceWeChatHelper/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.4.0_39dcf3f93a44f4553384878ee6cad365538bcccb.jar" />
     </item>
 
 </items>
